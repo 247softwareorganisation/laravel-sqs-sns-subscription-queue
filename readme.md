@@ -1,3 +1,5 @@
+> **Archived.** This was our fork of [joblocal/laravel-sqs-sns-subscription-queue](https://packagist.org/packages/joblocal/laravel-sqs-sns-subscription-queue). Lumen-API uses the upstream package from Packagist, so this fork is no longer used. See [PLAT-894](https://247software.atlassian.net/browse/PLAT-894).
+
 # AWS SQS SNS Subscription Queue
 
 [![Downloads](https://img.shields.io/packagist/dt/joblocal/laravel-sqs-sns-subscription-queue.svg)](https://packagist.org/packages/joblocal/laravel-sqs-sns-subscription-queue)
