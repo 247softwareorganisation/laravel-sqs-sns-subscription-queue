@@ -1,3 +1,5 @@
+> **Archived.** No longer used. Lumen-API uses the upstream package [joblocal/laravel-sqs-sns-subscription-queue](https://packagist.org/packages/joblocal/laravel-sqs-sns-subscription-queue) instead. See [PLAT-894](https://247software.atlassian.net/browse/PLAT-894) (Repo Consolidation v2, wave 0).
+
 # AWS SQS SNS Subscription Queue
 
 [![Downloads](https://img.shields.io/packagist/dt/joblocal/laravel-sqs-sns-subscription-queue.svg)](https://packagist.org/packages/joblocal/laravel-sqs-sns-subscription-queue)
